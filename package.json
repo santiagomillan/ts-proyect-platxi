@@ -1,0 +1,23 @@
+{
+  "name": "ts-proyect-platxi",
+  "version": "1.0.0",
+  "description": "Seguimiento del curso de Fundamentos de TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagomillan/ts-proyect-platxi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiagomillan/ts-proyect-platxi/issues"
+  },
+  "homepage": "https://github.com/santiagomillan/ts-proyect-platxi#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
